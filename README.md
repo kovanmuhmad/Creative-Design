@@ -1,1 +1,1 @@
-https://kovanmahmad.vercel.app/
+https://kovanmuhmad.github.io/web_dev-main/
